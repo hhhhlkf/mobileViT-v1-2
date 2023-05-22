@@ -2,3 +2,7 @@ runs
 predict_image
 weights
 .idea
+data/*
+weight/*
+__pycache__
+class_indices.json
